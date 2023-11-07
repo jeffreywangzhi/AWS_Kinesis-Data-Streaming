@@ -1,13 +1,15 @@
-# AWS_Kinesis-Streaming
-Local web data streaming with AWS Kinesis.
+# AWS_Kinesis-Data-Streaming
+Local web data streaming implementation with AWS Kinesis.
 
 Ref: https://docs.aws.amazon.com/streams/latest/dev/tutorial-stock-data-kplkcl2.html
 
-1. Run **controller/writer/StockTradesWriter.java** to generate sample data.
+1. Config AWS Credentials in **/view/kinesis.js** and Kinesis settings in **/controller/writer/StockTradesWriter.java**.
 
-2. Run ```live-server``` at **/view** directory.
+2. Run **/controller/writer/StockTradesWriter.java** to generate sample data.
 
-3. Open browser inspector to monitor data streaming.
+3. Run ```live-server``` at **/view** directory.
+
+4. Open browser inspector to monitor data streaming.
 
 ## Who do I talk to <a name = "author"></a>
 - Jeffrey Wang (jeffrey.wanggg@gmail.com)

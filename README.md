@@ -1,5 +1,5 @@
 # AWS_Kinesis-Data-Streaming
-Local web data streaming implementation with AWS Kinesis.
+Real-time data streaming implementation with AWS Kinesis.
 
 Ref: https://docs.aws.amazon.com/streams/latest/dev/tutorial-stock-data-kplkcl2.html
 

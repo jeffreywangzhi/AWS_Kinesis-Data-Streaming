@@ -12,4 +12,4 @@ Ref: https://docs.aws.amazon.com/streams/latest/dev/tutorial-stock-data-kplkcl2.
 4. Open browser inspector to monitor data streaming.
 
 ## Who do I talk to <a name = "author"></a>
-- Jeffrey Wang (jeffrey.wanggg@gmail.com)
+- Jeffrey Wang (jeffreywangzhi@gmail.com)
